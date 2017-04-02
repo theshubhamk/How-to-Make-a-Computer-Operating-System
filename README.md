@@ -1,3 +1,6 @@
+TRYING TO BUILD YOUR OWN OS THE HERE IS A GOOD MATERIAL TO START WITH.
+    
+                                                                -SHUBHAM    
 How to Make a Computer Operating System
 =======================================
 
